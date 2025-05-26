@@ -1,2 +1,2 @@
 # Fps-3D
-Fps 3D Game Files
+Mini Fps 3D Game
